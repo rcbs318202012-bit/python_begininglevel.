@@ -1,5 +1,5 @@
 # python_begininglevel.
-If you need more practice, follow along. Books I'm using are Python Crash Course and Automate the Boring Stuff with Python.
+\nIf you need more practice, follow along. Books I'm using are Python Crash Course and Automate the Boring Stuff with Python.
 PCC = Python Crash Course 3rd edition
 ATBS = Automate the Boring Stuff with Python
 Read chapters 1 & 2 in PCC and chapter 1 in ATBS.
